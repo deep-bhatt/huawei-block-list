@@ -12,4 +12,4 @@ I've collected these subdomains by using Blockada for several months & adding ea
 
 ## How to contribute?
 
-If you've got more doamins to add this list, please put up an issue. 
+If you've got more domains to add to this list, please put up an issue. 
