@@ -7,7 +7,6 @@ metrics-dra.dt.hicloud.com
 api-dra.music.hicloud.com
 store.hispace.hicloud.com
 query.hicloud.com
-app-measurement.com
 theme-dra.emui.hicloud.com
 dnkeeper.hicloud.com
 huaweihigame.com
@@ -22,7 +21,6 @@ security-captcha-dre.platform.hicloud.com
 configdownload-dra.dbankcdn.com
 configserver-dra.platform.hicloud.com
 videocontent-dra.himovie.hicloud.com
-in.appcenter.ms
 upfile5.hicloud.com
 id5.cloud.huawei.com
 coupon-dra.iap.hicloud.com
@@ -36,3 +34,9 @@ eu.mclean.50union.com
 eu.mvconf.50union.com
 sp-8f237ea3.honzik.avcdn.net
 sp-8f237ea3.vps-v4.u.acvdn.net
+configserver.platform.hicloud.com
+adxcreative-dra.dbankcdn.com
+cdn.hinative.com
+hinative.com
+cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
+cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
