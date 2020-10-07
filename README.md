@@ -13,3 +13,6 @@ I've collected these subdomains by using Blockada for several months &  adding e
 ## How to contribute?
 
 If you've got more domains to add to this list, please put up an issue. 
+
+## recommended hosts to whitelist
+1. To allow EMUI updates, I've commented(ie.excluded from blocklist) `query.hicloud.com` and `configserver.platform.hicloud.com`. Free feel to uncomment them if needs be.
