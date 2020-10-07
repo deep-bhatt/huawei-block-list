@@ -1,3 +1,10 @@
+# --------------------------------------------------
+# UNCOMMENT THE HOSTS BELOW TO BLOCK EMUI UPDATES
+#
+#query.hicloud.com
+#configserver.platform.hicloud.com
+# --------------------------------------------------
+
 grs.dbankcloud.cn
 grs.dbankcloud.eu
 grs.dbankcloud.com
@@ -6,7 +13,6 @@ pushtrs6.push.hicloud.com
 metrics-dra.dt.hicloud.com
 api-dra.music.hicloud.com
 store.hispace.hicloud.com
-query.hicloud.com
 theme-dra.emui.hicloud.com
 dnkeeper.hicloud.com
 huaweihigame.com
@@ -34,7 +40,6 @@ eu.mclean.50union.com
 eu.mvconf.50union.com
 sp-8f237ea3.honzik.avcdn.net
 sp-8f237ea3.vps-v4.u.acvdn.net
-configserver.platform.hicloud.com
 adxcreative-dra.dbankcdn.com
 cdn.hinative.com
 hinative.com
