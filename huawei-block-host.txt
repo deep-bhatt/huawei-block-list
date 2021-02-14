@@ -1,8 +1,11 @@
 # --------------------------------------------------
+# Huawei Block List 
+#
 # UNCOMMENT THE HOSTS BELOW TO BLOCK EMUI UPDATES
 #
 #query.hicloud.com
 #configserver.platform.hicloud.com
+#update.dbankcdn.com
 # --------------------------------------------------
 
 grs.dbankcloud.cn
