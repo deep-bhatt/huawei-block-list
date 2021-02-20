@@ -48,3 +48,6 @@ cdn.hinative.com
 hinative.com
 cs02-pps-drcn.dbankcdn.com.c.cdnhwc1.com
 cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
+configserver-dre.platform.hicloud.com
+sdkserver-dre.op.hicloud.com
+events-dre.op.hicloud.com
