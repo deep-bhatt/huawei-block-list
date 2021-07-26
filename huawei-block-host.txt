@@ -1,5 +1,5 @@
 # --------------------------------------------------
-# Huawei Block List 
+# Huawei Block List
 #
 # UNCOMMENT THE HOSTS BELOW TO BLOCK EMUI UPDATES
 #
@@ -51,3 +51,5 @@ cs02-pps-drcn.dbankcdn.com.cdn.dnsv1.com
 configserver-dre.platform.hicloud.com
 sdkserver-dre.op.hicloud.com
 events-dre.op.hicloud.com
+metrics5.data.hicloud.com
+consumer-tkbdownload.huawei.com
